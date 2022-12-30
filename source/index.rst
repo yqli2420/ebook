@@ -5,6 +5,8 @@
 
 机器学习与语音资源
 ====================================
+.. image:: ./images/logo.jpg
+    :scale: 50%
 
 .. toctree::
    :maxdepth: 2
@@ -13,3 +15,9 @@
     深度学习 <content/deep_learning/index>
     语音 <content/speech/index>
     AIGC <content/aigc/index>
+
+
+.. figure:: ./images/wechat.png
+    :scale: 50%
+
+    欢迎关注公众号:低调奋进
