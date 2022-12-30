@@ -20,4 +20,6 @@
 .. figure:: ./images/wechat.png
     :scale: 50%
 
-    欢迎关注公众号:低调奋进
+    欢迎关注公众号:低调奋进 
+    `个人技术网站 <http://yqli.tech/>`_
+
