@@ -11,6 +11,7 @@ copyright = '2022, liyongqiang'
 author = 'liyongqiang'
 release = '0.0.1'
 formats:
+  - pdf
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
