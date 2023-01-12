@@ -3,18 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-机器学习与语音资源
+机器学习与AIGC
 ====================================
 .. image:: ./images/logo.jpg
     :scale: 50%
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 目录
 
     深度学习 <content/deep_learning/index>
     语音 <content/speech/index>
-    AIGC <content/aigc/index>
+    文本 <content/text/index>
+    视觉 <content/cv/index>
+    多模态 <content/multimodal/index>
 
 
 .. figure:: ./images/wechat.png
