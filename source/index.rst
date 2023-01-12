@@ -23,5 +23,6 @@
     :scale: 50%
 
     欢迎关注公众号:低调奋进 
-    `个人技术网站 <http://yqli.tech/>`_
+    `个人技术网站 <http://yqli.tech/>`_ \
+    邮箱：yongqiangli@alumni.hust.edu.cn 1377830123@qq.com \
 
