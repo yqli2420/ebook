@@ -10,14 +10,33 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 目录
+   :caption: 深度学习
 
     深度学习 <content/deep_learning/index>
-    语音 <content/speech/index>
-    文本 <content/text/index>
-    视觉 <content/cv/index>
-    多模态 <content/multimodal/index>
 
+.. toctree::
+   :maxdepth: 3
+   :caption: 语音
+
+    语音 <content/speech/index>
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 文本
+
+    文本 <content/text/index>
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 视觉
+
+    视觉 <content/cv/index>
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 多模态
+
+    多模态 <content/multimodal/index>
 
 .. figure:: ./images/wechat.png
     :scale: 50%
